@@ -7,4 +7,5 @@ func main() {
 	arr := []int{1, 2, 3}
 	fmt.Print(arr)
 	fmt.Print(arr[0])
+	fmt.Println(arr[1])
 }
